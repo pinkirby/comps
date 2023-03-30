@@ -1,7 +1,13 @@
+class ProtoButton {
+    constructor
+}
+
 class ButtonBuilder {
     constructor() {
-        return (
-            <button></button>
-        );
+        this.reset();
     } 
+
+    reset() {
+
+    }
 }
